@@ -4,3 +4,4 @@ A comprehensive academy management solution built to manage students, teachers, 
 
 🔹 My Contribution:
 Backend Development using ASP.NET Core Web API, Entity Framework Core, SQL Server, JWT Authentication, and RESTful API architecture.
+
